@@ -1,0 +1,590 @@
+{
+  "nav": {
+    "features": "Features",
+    "solution": "Solution",
+    "tiers": "Tiers",
+    "about": "About",
+    "sign_in": "Sign In",
+    "get_started": "Get Started",
+    "toggle_theme": "Toggle theme",
+    "main_nav": "Main Navigation",
+    "home": "batix Home",
+    "close_menu": "Close Menu",
+    "open_menu": "Open Menu"
+  },
+  "common": {
+    "switch_language": "Switch Language",
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "goBack": "Go Back",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "badge": "Now with AI-Powered Computer Vision",
+    "title": "Intelligent Site Management, Powered by AI",
+    "description": "Smart digital platform for construction companies to monitor progress, control costs, and predict delays in real time.",
+    "cta_demo": "Request a demo",
+    "cta_how": "See how it works",
+    "dashboard_title": "batix Dashboard",
+    "dashboard_alt": "batix Dashboard Preview",
+    "trusted_by": "Trusted by Industry Leaders",
+    "customers_cta": "Meet Our Customers"
+  },
+  "impact": {
+    "badge": "Field Performance Metrics",
+    "title_start": "The",
+    "title_highlight": "Data",
+    "title_end": "of Success",
+    "metrics": {
+      "admin": "Less admin time",
+      "cost": "Cost reduction",
+      "accidents": "Target accidents",
+      "decisions": "Data-driven decisions",
+      "admin_label": "30 percent reduction in admin time",
+      "cost_label": "15 to 20 percent cost reduction",
+      "accidents_label": "Zero target accidents",
+      "decisions_label": "100 percent data driven decisions"
+    }
+  },
+  "solution": {
+    "title": "The Solution: batix Hub",
+    "description": "Our intelligent platform centralizes site data and AI analysis into a single, high-performance command center.",
+    "vision_accuracy": {
+      "value": "99.2%",
+      "title": "AI Vision Accuracy",
+      "description": "Highest industry standard for autonomous site analysis."
+    },
+    "safety": {
+      "title": "Safety First (QHSE)",
+      "description": "Automated PPE detection and real-time zone intrusion alerts."
+    },
+    "progress": {
+      "title": "Live Progress Feed",
+      "description": "Verified daily progress analysis automatically synced to Gantt."
+    },
+    "predictive": {
+      "title": "Predictive Edge",
+      "description": "Catch delay risks 48 hours before they impact the critical path.",
+      "risk_alert": "Risk Alert",
+      "graph_alt": "Speed graph showing risk alert at peak"
+    },
+    "collaboration": {
+      "title": "One Single Truth",
+      "description": "Align architects, subs, and owners on a unified site view.",
+      "stakeholders": "+12 Stakeholders Connected"
+    }
+  },
+  "grid": {
+    "badge": "The batix Ecosystem",
+    "title_start": "Built for",
+    "title_highlight": "Extreme",
+    "title_end": "Efficiency",
+    "description": "Construction management reimagined with autonomous intelligence and real-time site-to-office synchronization.",
+    "explore": "Explore Tech",
+    "items": {
+      "vision": {
+        "title": "AI Computer Vision",
+        "description": "Autonomous image analysis from cameras and drones to measure site progress automatically.",
+        "tags": ["Object detection", "Progress calculation", "Thermal scanning"]
+      },
+      "scheduling": {
+        "title": "Smart Scheduling",
+        "description": "Integrated Gantt charts that update in real-time as work is completed on the ground.",
+        "tags": ["Critical path", "Auto-scheduling", "Dependency tracking"]
+      },
+      "qhse": {
+        "title": "QHSE Compliance",
+        "description": "Real-time safety monitoring to ensure PPE compliance and prevent hazardous incursions.",
+        "tags": ["PPE detection", "Zone alerts", "Audit trails"]
+      },
+      "financial": {
+        "title": "Financial Control",
+        "description": "Real-time budget tracking linked directly to physical progress to prevent overruns.",
+        "tags": ["Cost burn-rate", "Material tracking", "ROI analytics"]
+      },
+      "predictive": {
+        "title": "Predictive Analytics",
+        "description": "Machine learning models that predict deltas and risks before they hit the critical path.",
+        "tags": ["Delay prediction", "Risk scoring", "Scenario modeling"]
+      },
+      "team": {
+        "title": "Team Sync",
+        "description": "Align all stakeholders from site foremen to city HQ on a single source of truth.",
+        "tags": ["Live site feed", "Stakeholder portals", "Instant reporting"]
+      }
+    }
+  },
+  "why": {
+    "badge": "The Competitive Advantage",
+    "line1": "Why Legacy",
+    "line2_struck": "Reporting",
+    "line3": "Is Dead.",
+    "description": "Conventional site management is reactive, manual, and prone to error. batix transitions your infrastructure from guesswork to zero-latency autonomy.",
+    "features": {
+      "predictive": {
+        "title": "Predictive Intelligence",
+        "description": "Predict delays 48h before they hit the critical path."
+      },
+      "ground_truth": {
+        "title": "Real-time Ground Truth",
+        "description": "Verified AI computer vision vs subjective site reports."
+      },
+      "data_mesh": {
+        "title": "Unified Data Mesh",
+        "description": "No more tool fragmentation. One hub for architects to owners."
+      },
+      "safety": {
+        "title": "Autonomous Safety",
+        "description": "Active HSE monitoring that stops accidents before they happen."
+      }
+    }
+  },
+  "tiers": {
+    "badge": "Deployment Tiers",
+    "title_start": "Choose Your",
+    "title_highlight": "Operational Scale",
+    "description": "From single-project digital tracking to global autonomous portfolios. Select the tier that matches your infrastructure goals.",
+    "recommended": "Recommended",
+    "secure": "Secure Deployment",
+    "inquire": "Inquire Tier",
+    "categories": {
+      "intelligence": "Site Intelligence",
+      "safety": "Safety & Compliance",
+      "scale": "Scale & Support"
+    },
+    "table": {
+      "capabilities": "Capabilities",
+      "f": "Foundation",
+      "as": "AI Specialist",
+      "gf": "Global Fleet"
+    },
+    "plans": {
+      "foundation": {
+        "name": "Foundation",
+        "description": "Digital transformation for small sites",
+        "price": "Custom",
+        "period": "/site",
+        "features": [
+          "Standard Dashboard",
+          "Manual Tracking",
+          "Unlimited Stakeholders"
+        ]
+      },
+      "specialist": {
+        "name": "AI Specialist",
+        "description": "The autonomous edge for major projects",
+        "price": "Enterprise",
+        "period": "/contract",
+        "features": [
+          "AI Vision Support",
+          "Progress Heatmaps",
+          "QHSE Safety Alerts",
+          "Predictive Delay AI"
+        ]
+      },
+      "fleet": {
+        "name": "Global Fleet",
+        "description": "Full portfolio visibility and control",
+        "price": "Scale",
+        "period": "/portfolio",
+        "features": [
+          "Multi-site HQ Dash",
+          "Custom ML Training",
+          "Site Success Manager",
+          "SLA-Backed Accuracy"
+        ]
+      }
+    },
+    "features": {
+      "feed": "Live Site Feed",
+      "detection": "Autonomous Detection",
+      "planned": "Planned vs Actual AI",
+      "ml": "Custom ML Models",
+      "qhse": "QHSE Reporting",
+      "ppe": "PPE Vision Alerts",
+      "zone": "Zone Incursion Detection",
+      "audit": "Compliance Audit",
+      "storage": "Site Storage",
+      "users": "User Seats",
+      "api": "API Access",
+      "success": "Site Success"
+    }
+  },
+  "contact": {
+    "badge": "Enterprise Deployment",
+    "title_start": "Secure your",
+    "title_highlight": "Site Autonomy",
+    "description": "Ready to deploy batix at scale? Our engineers will reach out to schedule a technical walkthrough and site audit within 24 hours.",
+    "audit_status": "Live: Site Audit Support",
+    "discovery_title": "Technical Discovery",
+    "discovery_desc": "We'll review your project blueprints, camera infrastructure, and HSE requirements to tailor a deployment plan that guarantees ROI.",
+    "hq": {
+      "label": "HQ Address",
+      "value": "Innovation District, Dubai, UAE"
+    },
+    "email": {
+      "label": "Direct Email"
+    },
+    "quote": "Deploying batix reduced our admin overhead by 40% in the first quarter.",
+    "author": "â€” Project Director, Al-Futtaim",
+    "labels": {
+      "name": "Full Name",
+      "email": "Work Email",
+      "phone": "Project Location / Phone",
+      "message": "Project Scope & Blueprint Details"
+    },
+    "placeholders": {
+      "name": "John Foreman",
+      "email": "john@company.com",
+      "phone": "+971 50 XXX XXXX",
+      "message": "Tell us about the site area, number of cranes, and specific safety/progress tracking needs."
+    },
+    "submit": "Initialize Site Review",
+    "privacy": "By submitting this form you agree to our specialized Data Privacy Agreement for construction site images.",
+    "privacy_link": "Data Privacy Agreement"
+  },
+  "footer": {
+    "badge": "Since 2026",
+    "description": "Industrial-grade construction intelligence. Transforming jobsite data into autonomous progress and safety foresight.",
+    "newsletter_title": "Technical Intelligence Weekly",
+    "newsletter_placeholder": "HQ Email Address",
+    "copyright": "Â© 2026 batix Inc. All site rights reserved.",
+    "sections": {
+      "platform": "Platform",
+      "enterprise": "Enterprise",
+      "resources": "Resources",
+      "legal": "Legal"
+    },
+    "links": {
+      "platform": [
+        "Intelligence Dash",
+        "Safety Monitor",
+        "Progress Tracker",
+        "Predictive ML"
+      ],
+      "enterprise": [
+        "Deployment Tier",
+        "Technical Audit",
+        "Custom Models",
+        "Success Stories"
+      ],
+      "resources": [
+        "API Documentation",
+        "Support Center",
+        "Integration Hub",
+        "Status"
+      ],
+      "legal": [
+        "Privacy Policy",
+        "Terms of Use",
+        "Cookie Policy",
+        "Whistleblower Plan"
+      ]
+    }
+  },
+  "cta": {
+    "line1": "Build Faster.",
+    "line2": "Build Safer.",
+    "line3": "Build the Future.",
+    "demo": "Launch Site Demo",
+    "contact": "Contact HQ"
+  },
+  "safety_ai": {
+    "badge": "Real-Time Intelligence",
+    "title_start": "Construction Site Safety",
+    "title_highlight": "AI Detection",
+    "description": "Batix uses advanced computer vision to detect hazards in real time â€” missing PPE, unsafe behavior, restricted zone entry â€” preventing incidents before they happen.",
+    "image_alt": "Batix Construction Site Safety AI Detection Dashboard",
+    "live_badge": "Real-time hazard detection active",
+    "features": {
+      "hazard_alerts": {
+        "title": "Instant Hazard Alerts",
+        "description": "Detects missing helmets, vests, unsafe proximity to machinery, or fall risks in milliseconds."
+      },
+      "ppe_compliance": {
+        "title": "PPE Compliance Monitoring",
+        "description": "Ensures 100% PPE usage with visual verification â€” reduces non-compliance fines and incidents."
+      },
+      "zone_prevention": {
+        "title": "Zone Intrusion Prevention",
+        "description": "Real-time alerts for unauthorized entry into high-risk areas â€” keeps workers safe."
+      },
+      "risk_prediction": {
+        "title": "Proactive Risk Prediction",
+        "description": "AI learns from site patterns to predict and prevent accidents before they occur."
+      }
+    }
+  },
+  "planning": {
+    "badge": "Project Planning",
+    "header": "Visualize Your",
+    "title": "Construction Timeline",
+    "description": "Plan tasks, allocate resources, and track progress with interactive Gantt charts. Dragâ€‘drop planning coming soon.",
+    "week": "Wk",
+    "weeks": "wks",
+    "task_resource": "Task & Resource",
+    "legend_title": "Crew Legend",
+    "crews": {
+      "a": "Crew A (Site, Finishing)",
+      "b": "Crew B (Foundation, Plumbing)",
+      "c": "Crew C (Framing)",
+      "d": "Crew D (Electrical)"
+    },
+    "tasks": {
+      "site_preparation": "Site Preparation",
+      "foundation": "Foundation",
+      "structural_framing": "Structural Framing",
+      "electrical": "Electrical",
+      "plumbing": "Plumbing",
+      "finishing": "Finishing"
+    },
+    "resources": {
+      "a": "Crew A (Site, Finishing)",
+      "b": "Crew B (Foundation, Plumbing)",
+      "c": "Crew C (Framing)",
+      "d": "Crew D (Electrical)"
+    }
+  },
+  "wizard": {
+    "header": {
+      "badge": "Empowering construction with Batix",
+      "title": "Onboarding",
+      "title_highlight": "Wizard",
+      "subtitle": "Configure your enterprise workspace in 4 simple steps"
+    },
+    "steps": {
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Company details"
+      },
+      "documents": {
+        "name": "Documents",
+        "description": "Upload necessary files"
+      },
+      "plan": {
+        "name": "Plan",
+        "description": "Select subscription"
+      },
+      "overview": {
+        "name": "Overview",
+        "description": "Review & Finish"
+      }
+    },
+    "step1": {
+      "title": "Enterprise",
+      "description": "Company details",
+      "company_name": {
+        "label": "Company Name",
+        "placeholder": "My Construction Co."
+      },
+      "business_email": {
+        "label": "Business Email",
+        "placeholder": "admin@company.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "+1 (555) 000-0000"
+      },
+      "company_description": {
+        "label": "Company Description",
+        "placeholder": "Tell us briefly about your enterprise's core business and site operations..."
+      },
+      "required": "*"
+    },
+    "step2": {
+      "title": "Documents",
+      "description": "Upload necessary files",
+      "section_title": "Required Documents",
+      "add_document": "Add Document",
+      "no_documents": "No documents added yet. Start by adding one.",
+      "document_name": {
+        "label": "Document Name",
+        "placeholder": "Building Permit 2024"
+      },
+      "document_type": {
+        "label": "Type",
+        "permit": "Permit",
+        "architecture_plan": "Architecture Plan",
+        "3d_plan": "3D Plan",
+        "site_plan": "Site Plan"
+      },
+      "document_file": {
+        "label": "Document File",
+        "upload_text": "click to upload document",
+        "required": "*"
+      },
+      "logo_upload": {
+        "text": "upload logo (optional)"
+      }
+    },
+    "step3": {
+      "title": "Plan",
+      "description": "Select subscription",
+      "plans": {
+        "foundation": {
+          "name": "Foundation",
+          "price": "$499",
+          "period": "/mo",
+          "features": ["5 Projects", "Basic Analytics", "Daily Backup"]
+        },
+        "specialist": {
+          "name": "Specialist",
+          "price": "$999",
+          "period": "/mo",
+          "recommended": "Recommended",
+          "features": ["Unlimited Projects", "AI Detection", "Priority Support"]
+        },
+        "fleet": {
+          "name": "Global Fleet",
+          "price": "Custom",
+          "period": "",
+          "features": ["Global Nodes", "24/7 Concierge", "SLA Guarantee"]
+        }
+      }
+    },
+    "step4": {
+      "title": "Overview",
+      "description": "Review & Finish",
+      "enterprise_section": {
+        "title": "Enterprise",
+        "company_name": "Company Name",
+        "business_email": "Business Email",
+        "phone": "Phone",
+        "not_available": "N/A"
+      },
+      "subscription_section": {
+        "title": "Subscription"
+      },
+      "documents_section": {
+        "title": "Documents Uploaded",
+        "no_documents": "No documents provided"
+      },
+      "validation": {
+        "required_field": "This field is required",
+        "invalid_email": "Please enter a valid email address",
+        "invalid_phone": "Please enter a valid phone number",
+        "select_plan": "Please select a subscription plan",
+        "upload_file": "Please upload a file"
+      }
+    },
+    "navigation": {
+      "home": "Home",
+      "back": "Back",
+      "next": "Next Stage",
+      "complete": "Complete Setup"
+    }
+  },
+  "auth": {
+    "welcome": "Welcome back",
+    "description": "Sign in to your account to continue",
+    "email": {
+      "label": "Email",
+      "placeholder": "name@company.com"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "••••••••",
+      "show": "Show password",
+      "hide": "Hide password"
+    },
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign in",
+    "signingIn": "Signing in...",
+    "demoButton": "Try a live demo",
+    "forgot": {
+      "badge": "Reset Password",
+      "title": "Trouble signing in?",
+      "description": "Enter the email associated with your account. We'll send a magic link to reset your password.",
+      "email": "Email address",
+      "submit": "Send reset link",
+      "success": "Check your inbox for the reset link.",
+      "back": "Back to sign in"
+    },
+    "reset": {
+      "badge": "Set New Password",
+      "title": "Update your password",
+      "description": "Enter your new password below to secure your account.",
+      "password": "New Password",
+      "confirm": "Confirm Password",
+      "submit": "Update Password",
+      "success": "Password updated successfully!",
+      "mismatch": "Passwords do not match"
+    },
+    "verification": {
+      "badge": "Verify Email",
+      "title": "Enter verification code",
+      "description": "We sent a 6-digit code to your inbox. Enter it below to confirm your email.",
+      "submit": "Verify code",
+      "resend": "Resend code",
+      "success": "Verification successful! Redirecting..."
+    },
+    "validation": {
+      "email": "Please enter a valid email address",
+      "password": {
+        "min": "Password must be at least 6 characters"
+      },
+      "codeLength": "Please enter all 6 digits"
+    },
+    "errors": {
+      "emailNotFound": "No account found with this email address",
+      "incorrectPassword": "The password you entered is incorrect",
+      "generic": "Invalid email or password"
+    }
+  },
+  "validation": {
+    "email": "Please enter a valid email address",
+    "password": "Password is required",
+    "document": {
+      "name": {
+        "min": "Document name must be at least 2 characters"
+      },
+      "type": {
+        "required": "Please select a document type",
+        "invalid": "Please select a valid document type"
+      },
+      "file": "Please upload a valid file"
+    },
+    "enterprise": {
+      "companyName": {
+        "min": "Company name must be at least 2 characters",
+        "max": "Company name must be less than 100 characters"
+      },
+      "businessEmail": "Invalid business email",
+      "phone": "Invalid phone number",
+      "description": {
+        "min": "Description must be at least 10 characters",
+        "max": "Description must be less than 500 characters"
+      }
+    },
+    "plan": {
+      "required": "Please select at least one plan",
+      "name": "Plan name is required",
+      "price": "Plan price is required"
+    },
+    "user": {
+      "fullName": {
+        "min": "Full name must be at least 2 characters"
+      },
+      "email": "Invalid email",
+      "password": {
+        "min": "Password must be at least 6 characters"
+      }
+    }
+  },
+  "marketing": {
+    "title": "SaaS to Build Faster",
+    "quote": "“Streamlined our entire project workflow. A game‑changer for our construction teams.”",
+    "quoteAuthor": "— Alex Rivera, Project Manager at BuildCore",
+    "stat": "500+ construction companies"
+  },
+  "errors": {
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundDesc": "Oops! The page you're looking for seems to have vanished into the digital void.",
+    "unauthorized": "Access Denied",
+    "unauthorizedDesc": "You don't have permission to access this area. Please verify your credentials.",
+    "checkUrl": "Lost? Double check the URL or contact support."
+  },
+  "copyright": "© 2025 Batix. All rights reserved."
+}

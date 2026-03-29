@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome back",
+  "description": "Sign in to your account to continue",
+  "email.label": "Email",
+  "email.placeholder": "name@company.com",
+  "password.label": "Password",
+  "password.placeholder": "••••••••",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "signIn": "Sign in",
+  "signingIn": "Signing in...",
+  "demoButton": "Try a live demo",
+  "quote": "\"Streamlined our entire project workflow. A game-changer for our construction teams.\"",
+  "quoteAuthor": "— Alex Rivera, Project Manager at BuildCore",
+  "stat": "500+ construction companies",
+  "copyright": "© 2025 Batix. All rights reserved."
+}

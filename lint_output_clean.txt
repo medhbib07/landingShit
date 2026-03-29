@@ -1,0 +1,125 @@
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\landing\hero-section.tsx
+   9:27  error  Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+  34:5   error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\landing\hero-section.tsx:34:5
+  32 |
+  33 |   useEffect(() => {
+> 34 |     setMounted(true);
+     |     ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  35 |   }, []);
+  36 |   return (
+  37 |     <div className="relative">  react-hooks/set-state-in-effect
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\animated-group.tsx
+  127:6  error  Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\animated-group.tsx:127:6
+  125 |
+  126 |   return (
+> 127 |     <MotionComponent
+      |      ^^^^^^^^^^^^^^^ This component is created during render
+  128 |       initial="hidden"
+  129 |       animate="visible"
+  130 |       variants={containerVariants}
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\animated-group.tsx:118:11
+  116 |
+  117 |   const MotionComponent = React.useMemo(
+> 118 |     () => motion.create(as as keyof JSX.IntrinsicElements),
+      |           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ The component is created during render here
+  119 |     [as],
+  120 |   );
+  121 |   const MotionChild = React.useMemo(  react-hooks/static-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\badge.tsx
+  48:17  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\button-group.tsx
+  82:3  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\button.tsx
+  67:18  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\combobox.tsx
+  277:3  error  'children' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+  309:3  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\direction.tsx
+  22:29  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\form.tsx
+  157:3  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\morphing-dialog.tsx
+  188:9  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\morphing-dialog.tsx:188:9
+  186 |       );
+  187 |       if (focusableElements && focusableElements.length > 0) {
+> 188 |         setFirstFocusableElement(focusableElements[0] as HTMLElement);
+      |         ^^^^^^^^^^^^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  189 |         setLastFocusableElement(
+  190 |           focusableElements[focusableElements.length - 1] as HTMLElement,
+  191 |         );  react-hooks/set-state-in-effect
+  233:5  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\morphing-dialog.tsx:233:5
+  231 |
+  232 |   useEffect(() => {
+> 233 |     setMounted(true);
+      |     ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  234 |     return () => setMounted(false);
+  235 |   }, []);
+  236 |                                                                                                                                                                                                 react-hooks/set-state-in-effect
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\navigation-menu.tsx
+  167:3  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\sidebar.tsx
+  609:26  error  Error: Cannot call impure function during render
+
+`Math.random` is an impure function. Calling an impure function can produce unstable results that update unpredictably when the component happens to re-render. (https://react.dev/reference/rules/components-and-hooks-must-be-pure#components-and-hooks-must-be-idempotent).
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\sidebar.tsx:609:26
+  607 |   // Random width between 50 to 90%.
+  608 |   const width = React.useMemo(() => {
+> 609 |     return `${Math.floor(Math.random() * 40) + 50}%`
+      |                          ^^^^^^^^^^^^^ Cannot call impure function
+  610 |   }, [])
+  611 |
+  612 |   return (  react-hooks/purity
+  723:3   error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\tabs.tsx
+  89:52  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\text-effect.tsx
+  183:17  error  '_' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Dhib\Desktop\SmartSite FrontEnd\front-end-batix\src\components\ui\toggle.tsx
+  47:18  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+✖ 18 problems (18 errors, 0 warnings)
+

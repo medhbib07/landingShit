@@ -1,0 +1,17 @@
+{
+  "welcome": "مرحبا بعودتك",
+  "description": "قم بتسجيل الدخول إلى حسابك للمتابعة",
+  "email.label": "البريد الإلكتروني",
+  "email.placeholder": "name@company.com",
+  "password.label": "كلمة المرر",
+  "password.placeholder": "••••••••",
+  "rememberMe": "تذكرني",
+  "forgotPassword": "هل نسيت كلمة المرور؟",
+  "signIn": "تسجيل الدخول",
+  "signingIn": "جاري تسجيل الدخول...",
+  "demoButton": "جرب عرضًا تجريبيًا مباشرًا",
+  "quote": "\"بسّطنا سير عمل المشروع بالكامل. تغيير حقيقي لفرق البناء لدينا.\"",
+  "quoteAuthor": "— أليكس ريفيرا، مدير مشروع في BuildCore",
+  "stat": "أكثر من 500 شركة بناء",
+  "copyright": "© 2025 باتيكس. جميع الحقوق محفوظة."
+}

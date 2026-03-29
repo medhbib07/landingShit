@@ -1,0 +1,598 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "solution": "Solution",
+    "tiers": "Niveaux",
+    "about": "À Propos",
+    "sign_in": "Se Connecter",
+    "get_started": "Commencer",
+    "toggle_theme": "Changer le thème",
+    "main_nav": "Navigation principale",
+    "home": "Accueil batix",
+    "close_menu": "Fermer le menu",
+    "open_menu": "Ouvrir le menu"
+  },
+  "common": {
+    "switch_language": "Changer de langue",
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "goBack": "Retour",
+    "backToHome": "Accueil"
+  },
+  "hero": {
+    "badge": "Maintenant avec Vision par Ordinateur IA",
+    "title": "Gestion de Site Intelligente, Propulsée par l'IA",
+    "description": "Plateforme numérique intelligente pour les entreprises de construction afin de suivre l'avancement, contrôler les coûts et prédire les retards en temps réel.",
+    "cta_demo": "Demander une démo",
+    "cta_how": "Voir comment ça marche",
+    "dashboard_title": "Tableau de Bord batix",
+    "dashboard_alt": "Aperçu du Tableau de Bord batix",
+    "trusted_by": "Approuvé par les leaders du secteur",
+    "customers_cta": "Découvrez nos clients"
+  },
+  "impact": {
+    "badge": "Indicateurs de Performance sur le Terrain",
+    "title_start": "Les",
+    "title_highlight": "Données",
+    "title_end": "du Succès",
+    "metrics": {
+      "admin": "Moins de temps d'administration",
+      "cost": "Réduction des coûts",
+      "accidents": "Accidents évités",
+      "decisions": "Décisions basées sur les données",
+      "admin_label": "Réduction de 30 % du temps administratif",
+      "cost_label": "Réduction de 15 à 20 % des coûts",
+      "accidents_label": "Objectif zéro accident",
+      "decisions_label": "100 % de décisions basées sur les données"
+    }
+  },
+  "safety_ai": {
+    "badge": "Intelligence en Temps Réel",
+    "title_start": "Détection IA de Sécurité",
+    "title_highlight": "sur Chantier",
+    "description": "Batix utilise la vision par ordinateur avancée pour détecter les dangers en temps réel — EPI manquants, comportements dangereux, entrée en zone restreinte — pour prévenir les incidents avant qu'ils ne se produisent.",
+    "image_alt": "Tableau de Bord de Détection IA de Sécurité Batix",
+    "live_badge": "Détection de dangers en temps réel active",
+    "features": {
+      "hazard_alerts": {
+        "title": "Alertes de Danger Instantanées",
+        "description": "Détecte les casques ou gilets manquants, la proximité dangereuse avec les machines ou les risques de chute en millisecondes."
+      },
+      "ppe_compliance": {
+        "title": "Surveillance de Conformité EPI",
+        "description": "Garantit 100 % d'utilisation des EPI avec vérification visuelle — réduit les amendes de non-conformité et les incidents."
+      },
+      "zone_prevention": {
+        "title": "Prévention d'Intrusion de Zone",
+        "description": "Alertes en temps réel pour entrée non autorisée dans les zones à haut risque — protège les travailleurs."
+      },
+      "risk_prediction": {
+        "title": "Prédiction Proactive des Risques",
+        "description": "L'IA apprend des modèles de site pour prédire et prévenir les accidents avant qu'ils ne se produisent."
+      }
+    }
+  },
+  "planning": {
+    "badge": "Planification de Projet",
+    "header": "Visualisez Votre",
+    "title": "Calendrier de Construction",
+    "description": "Planifiez les tâches, allouez les ressources et suivez l'avancement avec des diagrammes de Gantt interactifs. Planification par glisser-déposer bientôt disponible.",
+    "week": "Sem",
+    "weeks": "sem",
+    "task_resource": "Tâche & Ressource",
+    "legend_title": "Légende des Équipes",
+    "crews": {
+      "a": "Équipe A (Site, Finition)",
+      "b": "Équipe B (Fondation, Plomberie)",
+      "c": "Équipe C (Charpente)",
+      "d": "Équipe D (Électricité)"
+    },
+    "tasks": {
+      "site_preparation": "Préparation du site",
+      "foundation": "Fondation",
+      "structural_framing": "Charpente structurelle",
+      "electrical": "Électricité",
+      "plumbing": "Plomberie",
+      "finishing": "Finition"
+    },
+    "resources": {
+      "a": "Équipe A (Site, Finition)",
+      "b": "Équipe B (Fondation, Plomberie)",
+      "c": "Équipe C (Charpente)",
+      "d": "Équipe D (Électricité)"
+    }
+  },
+  "solution": {
+    "title": "La Solution : Batix Hub",
+    "description": "Notre plateforme intelligente centralise les données du site et les analyses IA dans un centre de commande unique et performant.",
+    "vision_accuracy": {
+      "value": "99,2 %",
+      "title": "Précision de la Vision IA",
+      "description": "Le standard industriel le plus élevé pour l'analyse autonome de site."
+    },
+    "safety": {
+      "title": "La Sécurité d'Abord (QHSE)",
+      "description": "Détection automatisée des EPI et alertes d'intrusion en zone en temps réel."
+    },
+    "progress": {
+      "title": "Flux de Progression en Direct",
+      "description": "Analyse quotidienne de progression vérifiée, synchronisée automatiquement avec Gantt."
+    },
+    "predictive": {
+      "title": "Avantage Prédictif",
+      "description": "Détectez les risques de retard 48 heures avant qu'ils n'impactent le chemin critique.",
+      "risk_alert": "Alerte de Risque",
+      "graph_alt": "Graphique de vitesse montrant une alerte de risque au pic"
+    },
+    "collaboration": {
+      "title": "Une Seule Vérité",
+      "description": "Alignez les architectes, les sous-traitants et les propriétaires sur une vue unifiée du site.",
+      "stakeholders": "+12 Parties Prenantes Connectées"
+    }
+  },
+  "grid": {
+    "badge": "L'Écosystème batix",
+    "title_start": "Conçu pour une",
+    "title_highlight": "Extreme",
+    "title_end": "Efficacité",
+    "description": "La gestion de construction réimaginée avec une intelligence autonome et une synchronisation site-bureau en temps réel.",
+    "explore": "Explorer la Tech",
+    "items": {
+      "vision": {
+        "title": "Vision par Ordinateur IA",
+        "description": "Analyse d'images autonome via caméras et drones pour mesurer automatiquement l'avancement du site.",
+        "tags": [
+          "Détection d'objets",
+          "Calcul de progression",
+          "Scan thermique"
+        ]
+      },
+      "scheduling": {
+        "title": "Planification Intelligente",
+        "description": "Diagrammes de Gantt intégrés mis à jour en temps réel selon les travaux réalisés sur le terrain.",
+        "tags": [
+          "Chemin critique",
+          "Auto-planification",
+          "Suivi des dépendances"
+        ]
+      },
+      "qhse": {
+        "title": "Conformité QHSE",
+        "description": "Surveillance de sécurité en temps réel pour assurer la conformité des EPI et prévenir les intrusions.",
+        "tags": ["Détection EPI", "Alertes de zone", "Audit"]
+      },
+      "financial": {
+        "title": "Contrôle Financier",
+        "description": "Suivi budgétaire en temps réel lié directement à l'avancement physique pour éviter les dépassements.",
+        "tags": ["Taux de dépense", "Suivi matériel", "Analyses ROI"]
+      },
+      "predictive": {
+        "title": "Analyses Prédictives",
+        "description": "Modèles de machine learning prédisant les écarts et les risques avant qu'ils n'impactent le projet.",
+        "tags": ["Prédictions retards", "Score de risque", "Modélisation"]
+      },
+      "team": {
+        "title": "Sync d'Équipe",
+        "description": "Alignez toutes les parties prenantes, du chef de chantier au siège, sur une source unique de vérité.",
+        "tags": ["Flux direct", "Portails partenaires", "Rapports instantanés"]
+      }
+    }
+  },
+  "why": {
+    "badge": "L'Avantage Compétitif",
+    "line1": "Pourquoi le",
+    "line2_struck": "Reporting",
+    "line3": "est Mort.",
+    "description": "La gestion de site conventionnelle est réactive, manuelle et sujette aux erreurs. batix fait passer votre infrastructure vers une autonomie sans latence.",
+    "features": {
+      "predictive": {
+        "title": "Intelligence Prédictive",
+        "description": "Prédisez les retards 48h avant qu'ils n'impactent le chemin critique."
+      },
+      "ground_truth": {
+        "title": "Vérité Terrain en Temps Réel",
+        "description": "Vision IA vérifiée vs rapports de site subjectifs."
+      },
+      "data_mesh": {
+        "title": "Maillage de Données Unifié",
+        "description": "Plus de fragmentation d'outils. Un centre unique pour tous les acteurs."
+      },
+      "safety": {
+        "title": "Sécurité Autonome",
+        "description": "Surveillance HSE active qui arrête les accidents avant qu'ils ne surviennent."
+      }
+    }
+  },
+  "tiers": {
+    "badge": "Niveaux de Déploiement",
+    "title_start": "Choisissez Votre",
+    "title_highlight": "Échelle Opérationnelle",
+    "description": "Du suivi numérique par projet aux portefeuilles autonomes mondiaux. Sélectionnez le niveau adapté à vos objectifs.",
+    "recommended": "Recommandé",
+    "secure": "Sécuriser le Déploiement",
+    "inquire": "Demander le Niveau",
+    "categories": {
+      "intelligence": "Intelligence de Site",
+      "safety": "Sécurité & Conformité",
+      "scale": "Échelle & Support"
+    },
+    "table": {
+      "capabilities": "Capacités",
+      "f": "Fondation",
+      "as": "Spécialiste IA",
+      "gf": "Flotte Mondiale"
+    },
+    "plans": {
+      "foundation": {
+        "name": "Fondation",
+        "description": "Transformation numérique pour petits sites",
+        "price": "Sur mesure",
+        "period": "/site",
+        "features": [
+          "Tableau de bord standard",
+          "Suivi manuel",
+          "Intervenants illimités"
+        ]
+      },
+      "specialist": {
+        "name": "Spécialiste IA",
+        "description": "L'avantage autonome pour projets majeurs",
+        "price": "Entreprise",
+        "period": "/contrat",
+        "features": [
+          "Support Vision IA",
+          "Cartes de chaleur",
+          "Alertes QHSE",
+          "IA Prédictive retards"
+        ]
+      },
+      "fleet": {
+        "name": "Flotte Mondiale",
+        "description": "Visibilité et contrôle du portefeuille complet",
+        "price": "Échelle",
+        "period": "/portfolio",
+        "features": [
+          "Tableau de bord Multi-sites",
+          "Modèles ML personnalisés",
+          "Gestionnaire de succès dédié",
+          "Précision garantie par SLA"
+        ]
+      }
+    },
+    "features": {
+      "feed": "Flux de Site en Direct",
+      "detection": "Détection Autonome",
+      "planned": "Prévu vs Réalisé IA",
+      "ml": "Modèles ML Personnalisés",
+      "qhse": "Rapports QHSE",
+      "ppe": "Alertes Vision EPI",
+      "zone": "Détection d'Intrusion de Zone",
+      "audit": "Audit de Conformité",
+      "storage": "Stockage de Site",
+      "users": "Sièges Utilisateurs",
+      "api": "Accès API",
+      "success": "Succès Dédié"
+    }
+  },
+  "contact": {
+    "badge": "Déploiement Entreprise",
+    "title_start": "Sécurisez votre",
+    "title_highlight": "Autonomie de Site",
+    "description": "Prêt à déployer batix à grande échelle ? Nos ingénieurs vous contacteront pour planifier un audit technique sous 24 heures.",
+    "audit_status": "Direct : Support Audit Site",
+    "discovery_title": "Découverte Technique",
+    "discovery_desc": "Nous examinerons vos plans, votre infrastructure de caméras et vos exigences HSE pour adapter un plan de déploiement garantissant le ROI.",
+    "hq": {
+      "label": "Adresse du Siège",
+      "value": "District de l'Innovation, Dubaï, ÉAU"
+    },
+    "email": {
+      "label": "Email Direct"
+    },
+    "quote": "Le déploiement de batix a réduit nos frais administratifs de 40 % dès le premier trimestre.",
+    "author": "— Directeur de Projet, Al-Futtaim",
+    "labels": {
+      "name": "Nom Complet",
+      "email": "Email Professionnel",
+      "phone": "Lieu du Projet / Tél",
+      "message": "Détails de la Portée du Projet"
+    },
+    "placeholders": {
+      "name": "Jean Contremaître",
+      "email": "jean@entreprise.com",
+      "phone": "+33 6 XX XX XX XX",
+      "message": "Parlez-nous de la zone du site, du nombre de grues et de vos besoins spécifiques."
+    },
+    "submit": "Initialiser la Revue de Site",
+    "privacy": "En soumettant ce formulaire, vous acceptez notre accord de confidentialité spécialisé pour les images de chantier.",
+    "privacy_link": "Accord de Confidentialité"
+  },
+  "footer": {
+    "badge": "Depuis 2026",
+    "description": "Intelligence de construction de classe industrielle. Transformer les données de chantier en progrès autonome.",
+    "newsletter_title": "Hebdo Intelligence Technique",
+    "newsletter_placeholder": "Adresse Email du Siège",
+    "copyright": "© 2026 batix Inc. Tous droits réservés.",
+    "sections": {
+      "platform": "Plateforme",
+      "enterprise": "Entreprise",
+      "resources": "Ressources",
+      "legal": "Juridique"
+    },
+    "links": {
+      "platform": [
+        "Tableau de bord IA",
+        "Moniteur Sécurité",
+        "Suivi Progrès",
+        "ML Prédictif"
+      ],
+      "enterprise": [
+        "Niveaux Déploiement",
+        "Audit Technique",
+        "Modèles Custom",
+        "Histoires Succès"
+      ],
+      "resources": [
+        "Documentation API",
+        "Centre Support",
+        "Hub Intégration",
+        "Statut"
+      ],
+      "legal": ["Confidentialité", "Conditions", "Cookies", "Lanceur d'alerte"]
+    }
+  },
+  "cta": {
+    "line1": "Construisez plus vite.",
+    "line2": "Construisez plus sûr.",
+    "line3": "Construisez le futur.",
+    "demo": "Lancer la Démo Site",
+    "contact": "Contacter le Siège"
+  },
+  "wizard": {
+    "header": {
+      "badge": "Autonomiser la construction avec Batix",
+      "title": "Assistant d'",
+      "title_highlight": "Intégration",
+      "subtitle": "Configurez votre espace de travail d'entreprise en 4 étapes simples"
+    },
+    "steps": {
+      "enterprise": {
+        "name": "Entreprise",
+        "description": "Détails de l'entreprise"
+      },
+      "documents": {
+        "name": "Documents",
+        "description": "Télécharger les fichiers nécessaires"
+      },
+      "plan": {
+        "name": "Forfait",
+        "description": "Sélectionner l'abonnement"
+      },
+      "overview": {
+        "name": "Aperçu",
+        "description": "Réviser et Terminer"
+      }
+    },
+    "step1": {
+      "title": "Entreprise",
+      "description": "Détails de l'entreprise",
+      "company_name": {
+        "label": "Nom de l'Entreprise",
+        "placeholder": "Ma Société de Construction"
+      },
+      "business_email": {
+        "label": "Email Professionnel",
+        "placeholder": "admin@entreprise.com"
+      },
+      "phone": {
+        "label": "Téléphone",
+        "placeholder": "+33 6 XX XX XX XX"
+      },
+      "company_description": {
+        "label": "Description de l'Entreprise",
+        "placeholder": "Parlez-nous brièvement de l'activité principale de votre entreprise..."
+      },
+      "required": "*"
+    },
+    "step2": {
+      "title": "Documents",
+      "description": "Télécharger les fichiers nécessaires",
+      "section_title": "Documents Requis",
+      "add_document": "Ajouter un Document",
+      "no_documents": "Aucun document ajouté pour le moment. Commencez par en ajouter un.",
+      "document_name": {
+        "label": "Nom du Document",
+        "placeholder": "Permis de Construire 2024"
+      },
+      "document_type": {
+        "label": "Type",
+        "permit": "Permis",
+        "architecture_plan": "Plan d'Architecture",
+        "3d_plan": "Plan 3D",
+        "site_plan": "Plan du Site"
+      },
+      "document_file": {
+        "label": "Fichier du Document",
+        "upload_text": "cliquez pour télécharger le document",
+        "required": "*"
+      },
+      "logo_upload": {
+        "text": "télécharger le logo (optionnel)"
+      }
+    },
+    "step3": {
+      "title": "Forfait",
+      "description": "Sélectionner l'abonnement",
+      "plans": {
+        "foundation": {
+          "name": "Fondation",
+          "price": "499€",
+          "period": "/mois",
+          "features": [
+            "5 Projets",
+            "Analyses de Base",
+            "Sauvegarde Quotidienne"
+          ]
+        },
+        "specialist": {
+          "name": "Spécialiste",
+          "price": "999€",
+          "period": "/mois",
+          "recommended": "Recommandé",
+          "features": [
+            "Projets Illimités",
+            "Détection IA",
+            "Support Prioritaire"
+          ]
+        },
+        "fleet": {
+          "name": "Flotte Mondiale",
+          "price": "Sur Mesure",
+          "period": "",
+          "features": ["Nœuds Mondiaux", "Conciergerie 24/7", "Garantie SLA"]
+        }
+      }
+    },
+    "step4": {
+      "title": "Aperçu",
+      "description": "Réviser et Terminer",
+      "enterprise_section": {
+        "title": "Entreprise",
+        "company_name": "Nom de l'Entreprise",
+        "business_email": "Email Professionnel",
+        "phone": "Téléphone",
+        "not_available": "N/D"
+      },
+      "subscription_section": {
+        "title": "Abonnement"
+      },
+      "documents_section": {
+        "title": "Documents Téléchargés",
+        "no_documents": "Aucun document fourni"
+      },
+      "ready_section": {
+        "title": "Prêt au Lancement",
+        "description": "En complétant la configuration, votre espace de travail d'entreprise sera initialisé instantanément."
+      }
+    },
+    "navigation": {
+      "home": "Accueil",
+      "back": "Retour",
+      "next": "Étape Suivante",
+      "complete": "Terminer la Configuration"
+    }
+  },
+  "auth": {
+    "welcome": "Ravi de vous revoir",
+    "description": "Connectez-vous à votre compte pour continuer",
+    "email": {
+      "label": "Email",
+      "placeholder": "nom@entreprise.com"
+    },
+    "password": {
+      "label": "Mot de passe",
+      "placeholder": "••••••••",
+      "show": "Afficher le mot de passe",
+      "hide": "Masquer le mot de passe"
+    },
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signIn": "Se connecter",
+    "signingIn": "Connexion en cours...",
+    "demoButton": "Essayer une démo en direct",
+    "forgot": {
+      "badge": "Réinitialiser le mot de passe",
+      "title": "Problème de connexion ?",
+      "description": "Entrez l'email associé à votre compte. Nous vous enverrons un lien magique pour réinitialiser votre mot de passe.",
+      "email": "Adresse email",
+      "submit": "Envoyer le lien",
+      "success": "Vérifiez votre boîte de réception pour le lien de réinitialisation.",
+      "back": "Retour à la connexion"
+    },
+    "reset": {
+      "badge": "Nouveau mot de passe",
+      "title": "Mettre à jour le mot de passe",
+      "description": "Entrez votre nouveau mot de passe ci-dessous pour sécuriser votre compte.",
+      "password": "Nouveau mot de passe",
+      "confirm": "Confirmer le mot de passe",
+      "submit": "Mettre à jour",
+      "success": "Mot de passe mis à jour avec succès !",
+      "mismatch": "Les mots de passe ne correspondent pas"
+    },
+    "verification": {
+      "badge": "Vérifier l'Email",
+      "title": "Entrez le code de vérification",
+      "description": "Nous avons envoyé un code à 6 chiffres à votre boîte de réception. Entrez-le ci-dessous.",
+      "submit": "Vérifier le code",
+      "resend": "Renvoyer le code",
+      "success": "Vérification réussie ! Redirection..."
+    },
+    "validation": {
+      "email": "Veuillez entrer une adresse email valide",
+      "password": {
+        "min": "Le mot de passe doit contenir au moins 6 caractères"
+      },
+      "codeLength": "Veuillez entrer les 6 chiffres"
+    },
+    "errors": {
+      "emailNotFound": "Aucun compte trouvé avec cette adresse email",
+      "incorrectPassword": "Le mot de passe que vous avez entré est incorrect",
+      "generic": "Email ou mot de passe invalide"
+    }
+  },
+  "validation": {
+    "email": "Veuillez entrer une adresse email valide",
+    "password": "Le mot de passe est requis",
+    "document": {
+      "name": {
+        "min": "Le nom du document doit contenir au moins 2 caractères"
+      },
+      "type": {
+        "required": "Veuillez sélectionner un type de document",
+        "invalid": "Veuillez sélectionner un type de document valide"
+      },
+      "file": "Veuillez télécharger un fichier valide"
+    },
+    "enterprise": {
+      "companyName": {
+        "min": "Le nom de l'entreprise doit contenir au moins 2 caractères",
+        "max": "Le nom de l'entreprise doit contenir moins de 100 caractères"
+      },
+      "businessEmail": "Email professionnel invalide",
+      "phone": "Numéro de téléphone invalide",
+      "description": {
+        "min": "La description doit contenir au moins 10 caractères",
+        "max": "La description doit contenir moins de 500 caractères"
+      }
+    },
+    "plan": {
+      "required": "Veuillez sélectionner au moins un plan",
+      "name": "Le nom du plan est requis",
+      "price": "Le prix du plan est requis"
+    },
+    "user": {
+      "fullName": {
+        "min": "Le nom complet doit contenir au moins 2 caractères"
+      },
+      "email": "Email invalide",
+      "password": {
+        "min": "Le mot de passe doit contenir au moins 6 caractères"
+      }
+    }
+  },
+  "marketing": {
+    "title": "SaaS pour construire plus vite",
+    "quote": "\"Nous avons rationalisé l'ensemble de notre flux de travail de projet. Un vrai game-changer pour nos équipes de construction.\"",
+    "quoteAuthor": "— Alex Rivera, Chef de projet chez BuildCore",
+    "stat": "Plus de 500 entreprises de construction"
+  },
+  "errors": {
+    "pageNotFound": "Page Non Trouvée",
+    "pageNotFoundDesc": "Oups ! La page que vous recherchez semble avoir disparu dans le vide numérique.",
+    "unauthorized": "Accès Refusé",
+    "unauthorizedDesc": "Vous n'avez pas la permission d'accéder à cette zone. Veuillez vérifier vos identifiants.",
+    "checkUrl": "Perdu ? Vérifiez l'URL ou contactez le support."
+  },
+  "copyright": "© 2025 Batix. Tous droits réservés."
+}
